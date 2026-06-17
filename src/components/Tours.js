@@ -21,7 +21,11 @@ function Tours() {
                     return (
                         <article className="tour-card">
                             <div className="tour-img-container">
-                                <img src={image} className="tour-img" alt="" />
+                                <img
+                                    src={image}
+                                    className="tour-img"
+                                    alt="awesome"
+                                />
                                 <p className="tour-date">{date}</p>
                             </div>
                             <div className="tour-info">

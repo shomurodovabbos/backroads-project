@@ -12,7 +12,7 @@ function About() {
                     <img
                         src={aboutImg}
                         className="about-photo"
-                        alt="about section image"
+                        alt="about section"
                     />
                 </div>
 
